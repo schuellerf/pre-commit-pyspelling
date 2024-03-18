@@ -5,10 +5,11 @@
 
 ## Change config file
 
-**Optionally** you might want to change the config file in your `.pre-commit-config.yaml` like so:
+**Optionally** you might want to change the config file in your `.pre-commit-config.yaml`
+to change the config file like so:
 
 ```
- - repo: https://github.com/schuellerf/pre-commit-pyspelling
+    - repo: https://github.com/schuellerf/pre-commit-pyspelling
       rev: master
       hooks:
           - id: pyspelling
