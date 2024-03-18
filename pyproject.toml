@@ -1,0 +1,8 @@
+[project]
+name = "pre-commit-pyspelling"
+version = "0.1.0"
+description = "Spell checking with pyspelling"
+authors = [ {name = "Florian Schüller", email = "florian.schueller@gmail.com" } ]
+
+dependencies = [ "pyspelling" ]
+

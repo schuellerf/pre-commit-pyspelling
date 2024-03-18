@@ -1,0 +1,8 @@
+-   id: pyspelling
+    name: Spell checking with pyspelling
+    description: Executes spell checking with https://github.com/facelessuser/pyspelling
+    entry: pyspelling
+    language: python
+    types: [text]
+    pass_filenames: false
+
